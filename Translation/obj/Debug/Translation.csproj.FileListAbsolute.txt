@@ -1,0 +1,10 @@
+C:\Users\Pampusz\source\repos\Translation\Translation\bin\Debug\Translation.exe.config
+C:\Users\Pampusz\source\repos\Translation\Translation\bin\Debug\Translation.exe
+C:\Users\Pampusz\source\repos\Translation\Translation\bin\Debug\Translation.pdb
+C:\Users\Pampusz\source\repos\Translation\Translation\obj\Debug\Translation.csprojAssemblyReference.cache
+C:\Users\Pampusz\source\repos\Translation\Translation\obj\Debug\Translation.Form1.resources
+C:\Users\Pampusz\source\repos\Translation\Translation\obj\Debug\Translation.Properties.Resources.resources
+C:\Users\Pampusz\source\repos\Translation\Translation\obj\Debug\Translation.csproj.GenerateResource.cache
+C:\Users\Pampusz\source\repos\Translation\Translation\obj\Debug\Translation.csproj.CoreCompileInputs.cache
+C:\Users\Pampusz\source\repos\Translation\Translation\obj\Debug\Translation.exe
+C:\Users\Pampusz\source\repos\Translation\Translation\obj\Debug\Translation.pdb
